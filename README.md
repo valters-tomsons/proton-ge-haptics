@@ -1,4 +1,12 @@
-# proton-ge-custom
+# proton-ge-custom-dualsense
+
+## This fork of GE-proton includes patches to support the Dualsense Haptic Feedback functionality.
+
+**All credits go to:**
+* [ClearlyClaire](https://github.com/ClearlyClaire) for writing the code
+* [Mutcholoko](https://github.com/Mutcholoko) for investigating and curating the patches
+* [GloriousEggroll](https://github.com/GloriousEggroll) for the development of their Proton fork
+* [Valve](https://github.com/ValveSoftware) for the development of Proton
 
 ## (1) RUNNING NON-STEAM GAMES WITH PROTON OUTSIDE OF STEAM IS NOT SUPPORTED. DO NOT ASK FOR HELP WITH THIS:
 
